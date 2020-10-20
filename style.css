@@ -1,0 +1,33 @@
+input:focus {
+              outline: 2px solid grey;
+}
+
+textarea:focus {
+                 outline: 2px solid grey;
+}
+
+#sendmail {
+            margin-top: 16%;
+            margin-left: auto;
+            margin-right: auto;
+            width: 200px;
+            
+
+}
+
+
+div.form  {
+             background-image: url('apple.png');
+           background-repeat: no-repeat;
+           background-position: center;
+           background-size: contain;
+           opacity:0.8;
+
+}
+
+        
+          
+.submit {
+          background-color: green;
+          color: white;
+}
