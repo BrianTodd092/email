@@ -6,6 +6,8 @@ textarea:focus {
                  outline: 2px solid grey;
 }
 
+/*input,textarea {  color:blue;}*/
+
 #sendmail {
             margin-top: 16%;
             margin-left: auto;
